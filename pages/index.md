@@ -1,1 +1,7 @@
 - [[Unit 1]]
+- {{embed [[Tasks]]}}
+- Also check out the rendering of this [whiteboard]([[Testing Whiteboards]])
+- Also, don't forget the drawing [drawing]((66e890ef-3a7f-4451-8423-fc1cd6f649f9))
+- Also, [table]((66e89f49-fe92-45b3-b2fe-34348a404456))
+-
+-

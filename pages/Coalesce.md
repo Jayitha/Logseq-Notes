@@ -7,6 +7,8 @@
 - TODO [#C] Modify the footnotes plugin
 - TODO [#C] Block aliasing is definitely a feature I'd want to keep a track of
 - TODO [#C] Read Michael Neilson's article on [Augmenting Long Term Memory](http://augmentingcognition.com/ltm.html)
+- TODO [#C] Tables and drawing do not preview
+	- In fact, I can't even reference a table block?
 - Takes first non-[`NULL`]([[Null]])  value 
   ```sql
   SELECT COALESCE(1, NULL) ------ 1
@@ -41,8 +43,29 @@
 - #+BEGIN_EXAMPLE
   This be an example
   #+END_EXAMPLE
-- <% current time %>
-- This is a block
-	- alias:: An alias for the block
-	- Content of the block
-- [[An alias for the block]]
+- [[draws/2024-09-17-02-04-04.excalidraw]]
+  id:: 66e890ef-3a7f-4451-8423-fc1cd6f649f9
+-
+- ```calc
+  3 + 4
+  ```
+- ```calc
+  x = 2
+  y = 3
+  x + y
+  ```
+- ![Foundations of Databases](http://webdam.inria.fr/Alice/pdfs/all.pdf)
+  id:: 66e896e6-564b-4c30-aa0d-9c7ac826e7ee
+	- ((66e89784-72d6-40ff-8005-ea16e544e28f))
+- TODO [#C] Is it possible for me to add links from my personal (private) google drive?
+- TODO [#B] [Advanced Datalog Queries](https://docs.logseq.com/#/page/advanced%20queries)
+- $x^2$
+- $$x^2$$
+- \begin{aligned}a + b = 2\end{aligned}
+-
+- id:: 66e89f49-fe92-45b3-b2fe-34348a404456
+  | title 1 | title 2 |
+  |Testing tables|Seems to work|
+-
+- Nice, you can ^^highlight^^ text
+-
