@@ -10,7 +10,7 @@
  ;; Available options:
  ;; - :now for NOW/LATER style (default)
  ;; - :todo for TODO/DOING style
- :preferred-workflow :todo
+ :preferred-workflow :now
 
  ;; Exclude directories/files.
  ;; Example usage:
@@ -421,5 +421,4 @@
  :file/name-format :triple-lowbar
  :feature/enable-journals? false
  :default-home {:page "index"}
- :publishing/all-pages-public? true
- :feature/enable-timetracking? false}
+ :publishing/all-pages-public? true}
